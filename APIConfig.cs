@@ -9,7 +9,7 @@ public class APIConfig : MonoBehaviour {
 
 	void Start () {
 
-        API = PlayerPrefs.GetString("APIKey", "AIzaSyAW41Fh3VmJ73gtx08CSxYtmIqT9wr3Vtg");
+        API = PlayerPrefs.GetString("APIKey", "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
         APIField.text = API;
 
 	}
