@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+/*
+Helper script prepared using online reference documentation for usage of Google Cloud APIs with Unity3D.
+*/
+
+using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
